@@ -17,3 +17,7 @@ table, th, td {
     border: 1px solid #000;
     border-collapse: collapse;
 }
+
+.table-tags {
+    text-align: center;
+}
