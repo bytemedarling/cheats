@@ -1,2 +1,2 @@
 # cheats
-cheatsheet
+a reference page for HTML and CSS editing
