@@ -7,8 +7,9 @@
 }
 /*Box Edits */
 
-#rows {
+th {
     background-color: pink;
     text-align: center;
     font-weight: bold;
 }
+
