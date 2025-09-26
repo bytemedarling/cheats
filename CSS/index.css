@@ -3,7 +3,7 @@
     text-align: center;
     font-style: bold;
     text-decoration: underline;
-    color: blueviolet;
+    color: #301934;
 }
 /*Box Edits */
 
@@ -13,3 +13,10 @@ th {
     font-weight: bold;
 }
 
+td {
+    background-color: gainsboro;
+}
+
+table {
+    text-align: center;
+}
