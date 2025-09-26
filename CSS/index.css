@@ -5,3 +5,10 @@
     text-decoration: underline;
     color: blueviolet;
 }
+/*Box Edits */
+
+#rows {
+    background-color: pink;
+    text-align: center;
+    font-weight: bold;
+}
