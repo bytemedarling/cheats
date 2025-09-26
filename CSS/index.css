@@ -5,7 +5,7 @@
     text-decoration: underline;
     color: #301934;
 }
-/*Box Edits */
+/*Table Edits */
 
 th {
     background-color: pink;
@@ -15,4 +15,5 @@ th {
 
 table, th, td {
     border: 1px solid #000;
+    border-collapse: collapse;
 }
