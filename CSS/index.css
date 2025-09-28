@@ -5,6 +5,11 @@
     text-decoration: underline;
     color: #301934;
 }
+
+.banner-title {
+    text-align: center;
+    font-style: bold italic;
+}
 /*Table Edits */
 
 th {
