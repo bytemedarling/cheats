@@ -8,7 +8,7 @@
 
 .banner-title {
     text-align: center;
-    font-style: bold italic;
+    font-style: bold, italic;
 }
 /*Table Edits */
 
@@ -27,6 +27,6 @@ table, th, td {
    margin: auto;
 }
 
-h2 {
+h2, h1 {
     text-align: center;
 }
