@@ -26,3 +26,7 @@ table, th, td {
 .table-tags {
    margin: auto;
 }
+
+h2 {
+    text-align: center;
+}
