@@ -26,6 +26,7 @@ table, th, td {
 
 .tables {
    margin: auto;
+   text-align: center;
 }
 
 h2, h1 {
