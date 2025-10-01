@@ -51,7 +51,7 @@ h2, h1, h4, p {
 
 /*Footer */
 
-footer.bottom {
+.bottom {
     margin: 0 auto;
     background-color: lightpink;
     padding: 10px;
@@ -59,8 +59,7 @@ footer.bottom {
     color: lightgrey;
 }
 
-footer.bottom a {
-    display: inline-block;
-    margin-top: 8px;
-    text-decoration: none;
+a {
+    margin: 0 auto;
+    font-style: italic;
 }
