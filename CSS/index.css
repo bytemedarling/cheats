@@ -25,9 +25,10 @@ table, th, td {
 }
 
 .table-tags, .attributes, .structure-elements {
-    margin: auto;
+    margin: 0 auto;
     text-align: center;
     border-collapse: collapse;
+    width: 600px;
 }
 
 h2, h1 {
