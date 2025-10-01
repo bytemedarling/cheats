@@ -1,3 +1,5 @@
+/*Banner Edits */
+
 #banner-title {
     background-color: cornsilk;
     text-align: center;
@@ -12,6 +14,7 @@
     font-style: italic;
     margin: 0 auto;
 }
+
 /*Table Edits */
 
 th {
@@ -37,4 +40,11 @@ table, th, td {
 }
 h2, h1 {
     text-align: center;
+}
+
+/*Footer */
+
+footer {
+    margin: 0 auto;
+    
 }
