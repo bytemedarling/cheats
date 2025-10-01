@@ -51,10 +51,16 @@ h2, h1, h4, p {
 
 /*Footer */
 
-.bottom {
+footer.bottom {
     margin: 0 auto;
     background-color: lightpink;
     padding: 10px;
-    margin: 0 auto;
+    margin-top: 40px;
     color: lightgrey;
+}
+
+footer.bottom a {
+    display: inline-block;
+    margin-top: 8px;
+    text-decoration: none;
 }
