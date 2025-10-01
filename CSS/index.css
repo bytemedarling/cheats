@@ -31,7 +31,7 @@ table, th, td {
 }
 
 .table-tags, .attributes, .structure-elements, .directory {
-    margin: 0 auto;
+    margin: 0 auto 35px;
     text-align: center;
     border-collapse: collapse;
     width: 600px;
