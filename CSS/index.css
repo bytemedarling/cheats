@@ -24,7 +24,7 @@ table, th, td {
     border-collapse: collapse;
 }
 
-.table-tags, .attributes, .structure-elements {
+.table-tags, .attributes, .structure-elements, .directory {
     margin: 0 auto;
     text-align: center;
     border-collapse: collapse;
