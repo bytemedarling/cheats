@@ -29,6 +29,16 @@ table, th, td {
    text-align: center;
 }
 
+.attributes {
+    margin: auto;
+    text-align: center;
+}
+
+.structure-elements {
+    margin: auto;
+    text-align: center;
+}
+
 h2, h1 {
     text-align: center;
 }
