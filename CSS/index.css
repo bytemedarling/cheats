@@ -3,10 +3,12 @@
 #banner {
     background-color: cornsilk;
     text-align: center;
-    font-style: bold;
+    font-weight: bold;
     text-decoration: underline;
     color: #301934;
     font-size: 32px;
+    width: fit-content;
+    margin: 0 auto;
 }
 
 .banner-title {
@@ -46,4 +48,6 @@ h2, h1 {
 footer {
     margin: 0 auto;
     background-color: lightpink;
+    padding: 10px;
+    margin: 0 auto;
 }
