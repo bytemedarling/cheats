@@ -10,7 +10,7 @@
     margin: 0 auto;
 }
 
-a.banner-title {
+.banner-title {
     text-align: center;
     font-style: italic;
     font-family: 'Courier New', Courier, monospace;
@@ -56,5 +56,5 @@ h2, h1, h4, p {
     background-color: lightpink;
     padding: 10px;
     margin: 0 auto;
-    color: lightslategray;
+    color: lightgrey;
 }
