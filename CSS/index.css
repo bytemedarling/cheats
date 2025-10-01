@@ -31,6 +31,9 @@ table, th, td {
     width: 600px;
 }
 
+.top {
+    text-decoration: underline;
+}
 h2, h1 {
     text-align: center;
 }
