@@ -24,19 +24,10 @@ table, th, td {
     border-collapse: collapse;
 }
 
-.table-tagss {
-   margin: auto;
-   text-align: center;
-}
-
-.attributes {
+.table-tags, .attributes, .structure-elements {
     margin: auto;
     text-align: center;
-}
-
-.structure-elements {
-    margin: auto;
-    text-align: center;
+    border-collapse: collapse;
 }
 
 h2, h1 {
