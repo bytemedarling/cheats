@@ -45,7 +45,7 @@ h2, h1 {
 
 /*Footer */
 
-footer {
+.bottom {
     margin: 0 auto;
     background-color: lightpink;
     padding: 10px;
