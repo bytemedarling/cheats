@@ -13,7 +13,9 @@
 a.banner-title {
     text-align: center;
     font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
     margin: 0 auto;
+    display: block;
 }
 
 /*Table Edits */
