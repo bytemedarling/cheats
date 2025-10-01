@@ -30,6 +30,10 @@ table, th, td {
     font-family: 'Courier New', Courier, monospace;
 }
 
+td {
+    text-align: left;
+}
+
 .table-tags, .attributes, .structure-elements, .directory {
     margin: 0 auto 35px;
     text-align: center;
