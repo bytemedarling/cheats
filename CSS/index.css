@@ -63,3 +63,10 @@ a {
     margin: 0 auto;
     font-style: italic;
 }
+/*
+.btn:hover {
+  color: orange;
+  text-decoration: underline;
+  font-size: 16px;
+  border: 2px solid;
+} */
