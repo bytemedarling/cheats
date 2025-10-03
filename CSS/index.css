@@ -36,7 +36,7 @@ td {
     text-align: left;
 }
 
-.table-tags, .attributes, .structure-elements, .directory {
+.table-tags, .attributes, .structure-elements, .directory, .structure-attributes {
     margin: 0 auto 35px;
     text-align: center;
     border-collapse: collapse;
