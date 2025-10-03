@@ -10,11 +10,6 @@
     margin: 0 auto;
 }
 
-.button {
-    margin: 0 auto;
-    text-align: center;
-}
-
 .banner-title {
     text-align: center;
     font-style: italic;
@@ -56,6 +51,9 @@ h2, h1, h4, p {
 
 /*Footer */
 
+footer {
+    text-align: center;
+}
 .bottom {
     margin: 0 auto;
     background-color: lightpink;
