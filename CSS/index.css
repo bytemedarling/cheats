@@ -30,14 +30,14 @@ th {
 
 table {
     border-collapse: collapse;
-    table-layout: fixed;
     font-weight: bold;
 }
     
-th, td {
+table, th, td {
     border: 1px solid #000;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    font-weight: bold;
 }
 
 .table-tags, .attributes, .structure-elements, .directory, .structure-attributes {
@@ -83,6 +83,7 @@ a {
   border: 2px solid;
 
 } */
+
 
 
 
