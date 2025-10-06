@@ -1,3 +1,5 @@
+
+
 /*Banner Edits */
 
 #banner {
@@ -26,14 +28,20 @@ th {
     font-weight: bold;
 }
 
-table, th, td {
-    border: 1px solid #000;
+table {
+    width: 100%;
     border-collapse: collapse;
-    font-family: 'Courier New', Courier, monospace;
+    table-layout: fixed;
+    font-weight: bold;
+    padding: 0.5rem;
 }
-
-td {
-    text-align: left;
+    
+th, td {
+    border: 1px solid #000;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    word-wrap: break-word;
+    border-top: 1px solid #ddd;
 }
 
 .table-tags, .attributes, .structure-elements, .directory, .structure-attributes {
@@ -43,6 +51,11 @@ td {
     width: 600px;
 }
 
+.table-wrap {
+  overflow-x: auto;
+}
+
+/*title and text edits*/
 
 h2, h1, h4, p {
     text-align: center;
@@ -72,4 +85,5 @@ a {
   text-decoration: underline;
   font-size: 16px;
   border: 2px solid;
+
 } */
