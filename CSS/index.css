@@ -33,14 +33,12 @@ table {
     border-collapse: collapse;
     table-layout: fixed;
     font-weight: bold;
-    padding: 0.5rem;
 }
     
 th, td {
     border: 1px solid #000;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    word-wrap: break-word;
     border-top: 1px solid #ddd;
 }
 
@@ -87,3 +85,4 @@ a {
   border: 2px solid;
 
 } */
+
