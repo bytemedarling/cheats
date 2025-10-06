@@ -39,14 +39,13 @@ th, td {
     border: 1px solid #000;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    border-top: 1px solid #ddd;
 }
 
 .table-tags, .attributes, .structure-elements, .directory, .structure-attributes {
     margin: 0 auto 35px;
     text-align: center;
     border-collapse: collapse;
-    width: 600px;
+    width: 100%;
 }
 
 .table-wrap {
@@ -85,4 +84,5 @@ a {
   border: 2px solid;
 
 } */
+
 
